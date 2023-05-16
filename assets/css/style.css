@@ -1,0 +1,125 @@
+.background{
+    background-color: #404040;
+}
+.big_letters{
+    font-family: VK Sans Display;
+    src: url("assets/fonts/VKSansDisplay-Medium") format("truetype");
+    font-size: 100px;
+    color: white;
+    padding-top: 100px;
+    padding-left: 200px;
+    position:absolute;
+}
+.statue{
+    position: absolute;
+    height: 750px;
+    width: 650px;
+    left: 1250px;
+    top: 180px;
+    opacity: 50%;
+}
+.block2{
+    position: absolute;
+}
+.mainlabel1{
+    font-family: VK Sans Display;
+    src: url("assets/fonts/VKSansDisplay-Medium") format("truetype");
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    padding-left: 90px;
+    padding-top: 1090px;
+}
+.maintext1{
+    font-family: VK Sans Display, Regular;
+    src: url("assets/fonts/VKSansDisplay-Regular") format("truetype");
+    font-style:normal; 
+    position: absolute;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+    padding-left: 98px;
+    top: 1230px;    
+}
+.mainlabel2{
+    font-family: VK Sans Display;
+    src: url("assets/fonts/VKSansDisplay-Medium") format("truetype");
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    padding-left: 90px;
+    padding-top: 1700px;
+}
+.maintext2{
+    font-family: VK Sans Display, Regular;
+    src: url("assets/fonts/VKSansDisplay-Regular") format("truetype");
+    font-style:normal; 
+    position: absolute;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+    padding-left: 98px;
+    top: 1800px;   
+}
+.mainlabel3{
+    font-family: VK Sans Display;
+    src: url("assets/fonts/VKSansDisplay-Medium") format("truetype");
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    padding-left: 90px;
+    padding-top: 700px;
+}
+.maintext3{
+    font-family: VK Sans Display, Regular;
+    src: url("assets/fonts/VKSansDisplay-Regular") format("truetype");
+    font-style:normal; 
+    position: absolute;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+    padding-left: 98px;
+    top: 2650px;  
+}
+.mainlabel4{
+    font-family: VK Sans Display;
+    src: url("assets/fonts/VKSansDisplay-Medium") format("truetype");
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    padding-left: 90px;
+    padding-top: 650px;
+}
+.maintext4{
+    font-family: VK Sans Display, Regular;
+    src: url("assets/fonts/VKSansDisplay-Regular") format("truetype");
+    font-style:normal; 
+    position: absolute;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+    padding-left: 98px;
+    top: 3430px;  
+}
+.mainlabel5{
+    font-family: VK Sans Display;
+    src: url("assets/fonts/VKSansDisplay-Medium") format("truetype");
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    padding-left: 90px;
+    padding-top: 690px;
+}
+.maintext5{
+    font-family: VK Sans Display, Regular;
+    src: url("assets/fonts/VKSansDisplay-Regular") format("truetype");
+    font-style: Regular;
+    position: absolute;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+    padding-left: 98px;
+    top: 4250px;  
+}
+
+
